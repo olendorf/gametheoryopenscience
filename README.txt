@@ -1,0 +1,1 @@
+The documents for the Game Theory of Open Science Paper. We're (Steve Koch and Robert Olendorf) writing this paper openly as well.
