@@ -1,15 +1,35 @@
 \begin{thebibliography}{1}
 
+\bibitem{axelroddion1988}
+R.~Axelrod and D.~Dion.
+\newblock The further evolution of cooperation.
+\newblock {\em Science}, 242(4884):1385--1390, 1988.
+\newblock Times Cited: 263.
+
+\bibitem{axelrodhamilton1981}
+R.~Axelrod and W.~D. Hamilton.
+\newblock The evolution of cooperation.
+\newblock {\em Science}, 211(4489):1390--1396, 1981.
+\newblock Times Cited: 2119.
+
+\bibitem{unm.b685148920000101}
+Lee~Alan Dugatkin and Hudson~Kern Reeve.
+\newblock {\em Game theory and animal behavior}.
+\newblock New York, Oxford University Press, 2000.
+
 \bibitem{unm.b196052419570101}
 R.~Duncan Luce and Howard Raiffa.
-\newblock {\em Games and decisions; introduction and critical survey [by] R.
-  Duncan Luce and Howard Raiffa. A study of the Behavioral Models Project,
-  Bureau of Applied Social Research, Columbia University.}
-\newblock New York, Wiley [1957], 1957.
+\newblock {\em Games and decisions; introduction and critical survey}.
+\newblock New York, Wiley, 1957.
 
 \bibitem{ABAGFBEC19920101}
 W.~Poundstone.
 \newblock Prisoners dilemma.
 \newblock 1992.
+
+\bibitem{smithprice1973}
+J.~M. Smith and G.~R. Price.
+\newblock Logic of animal conflict.
+\newblock {\em Nature}, 246(5427):15--18, 1973.
 
 \end{thebibliography}
