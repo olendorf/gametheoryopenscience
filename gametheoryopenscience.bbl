@@ -1,26 +1,53 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{axelroddion1988}
 R.~Axelrod and D.~Dion.
 \newblock The further evolution of cooperation.
 \newblock {\em Science}, 242(4884):1385--1390, 1988.
-\newblock Times Cited: 263.
 
 \bibitem{axelrodhamilton1981}
 R.~Axelrod and W.~D. Hamilton.
 \newblock The evolution of cooperation.
 \newblock {\em Science}, 211(4489):1390--1396, 1981.
-\newblock Times Cited: 2119.
+
+\bibitem{deutsch_mechanics_2011}
+J.~M Deutsch, M.~E Brunner, and William~M Saxton.
+\newblock The mechanics of a microscopic mixer: microtubules and cytoplasmic
+  streaming in drosophila oocytes.
+\newblock {\em {arXiv:1101.2225}}, January 2011.
 
 \bibitem{unm.b685148920000101}
 Lee~Alan Dugatkin and Hudson~Kern Reeve.
 \newblock {\em Game theory and animal behavior}.
 \newblock New York, Oxford University Press, 2000.
 
+\bibitem{koch_kochlab}
+Steve Koch.
+\newblock {KochLab} - {YouTube}.
+
+\bibitem{koch_steve_2011}
+Steve Koch.
+\newblock Steve koch science: An open data success story, February 2011.
+
 \bibitem{unm.b196052419570101}
 R.~Duncan Luce and Howard Raiffa.
 \newblock {\em Games and decisions; introduction and critical survey}.
 \newblock New York, Wiley, 1957.
+
+\bibitem{maloney_koch}
+Andy Maloney and Steve Koch.
+\newblock Koch {Lab:Data/MT} gliding assay readme file - {OpenWetWare}.
+
+\bibitem{olendorf_2004b}
+R.~Olendorf, T.~Getty, K.~Scribner, and S.~K. Robinson.
+\newblock Male red-winged blackbirds distrust unreliable and sexually
+  attractive neighbours.
+\newblock {\em Proceedings of the Royal Society of London Series B-Biological
+  Sciences}, 271(1543):1033--1038, 2004.
+
+\bibitem{olendorf_gtos_github}
+Robert Olendorf and Steve Koch.
+\newblock olendorf/gametheoryopenscience · {GitHub}.
 
 \bibitem{ABAGFBEC19920101}
 W.~Poundstone.
