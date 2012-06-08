@@ -20,6 +20,8 @@
 %   read geometry.pdf for detailed page layout information
 
 \usepackage{graphicx} % support the \includegraphics command and options
+\usepackage{caption}
+\usepackage{subcaption}
 
 % \usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
 
@@ -78,7 +80,7 @@ In this manuscript we will use game theoretical arguments, specifically work bas
 \section{Theory}
 \subsection{The Prisoners' Dilemma and Open Science}
 \begin{figure}[ht]
-	\includegraphics[width=0.5\textwidth]{pdmatrix.png}
+	\includegraphics[width=0.5\textwidth]{files/figures/pdmatrix.png}
 	\caption{A sample example matrix for the Prisoners' Dilemma. The players can either Cooperate(C) or Defect(D).  Numbers above the diagonal represent payoffs to Player 1, numbers below the diagonal represent payoffs to Player 2.}
 	\label{pdmatrix}
 \end{figure}
@@ -97,7 +99,7 @@ If the game is to played for some unknown number of times (Iterated Prisoners' D
 In most cases players are not just playing agains one player, but exist in a population of players. We must therefore consider the dynamics of strategies in the IPD played against a population of strategies. To do this we must redefine our equlibrium from a situation where neither player benefits by changing strategies to the situation where a population of players, cannot be invaded by any alternative strategy that is initially rare. This is known as an Evolutionarily Stable Strategy (ESS) first developed by J. Maynard Smith \cite{smithprice1973}. An ESS is actually a Nash equilbirium extended for In the case of a population rather than two individuals. 
 
 \begin{figure}[ht]
-	\includegraphics[width=0.7\textwidth]{c_vs_d.png}
+	\includegraphics[width=0.7\textwidth]{files/figures/DvsC.png}
 	\caption{The payoffs to Cooperate and Defect strategies as a function of the frequency of Defectors in the population.}
 	\label{cvsd}
 \end{figure}
@@ -121,11 +123,25 @@ and likewise, the expected payoff to Cooperating is
 
 In the case of a Cooperators and Defectors we can see in Figure~\ref{cvsd} that while the expected payoff to both strategies decreases as the number of defectors increases.Also, both strategies achieve a higher payoff in an environment with more Cooperators, but because Defectors always achieve a higher payoff the population is only stable with pure defection. This is essentially the same result as we saw with only two players.
 
-\begin{figure}[ht!]
-	\includegraphics[width=0.7\textwidth]{tftvsdannotated.png}
-	\caption{The payoffs to TFT and Defect as a function of the frequency of Defectors in the population.}
-	\label{tftvsd}
+\begin{figure}
+	\begin{subfigure}[b]{0.55\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{files/figures/DvsTFT_mu3}
+		\caption{Expected number of interactions = 3.}
+	\end{subfigure}
+	\begin{subfigure}[b]{0.55\textwidth}
+		\centering
+		\includegraphics[width=\textwidth]{files/figures/DvsTFT_mu15}
+		\caption{Expected number of interactions = 15.}
+	\end{subfigure}
+	\caption{The expected payoff per interaction as a function of the frequency of defectors. The intersection
+		    between the blue (TFT) line and the red-orange lines represent critical points. If the frequency
+		    of defectors is higher than the critical value, then defectors will be favored, while if the
+		   frequency of defectors is less than the critical point TFT will be favored. Moving the critical point
+		  to the right favors TFT, meaning that lowering the payoff for defecting against a cooperation, and
+	            increasng interactions favor TFT.}
 \end{figure}
+
 
 We approach the determining the payoffs in a population of Defectors and TFT strategists in a similar way.
 \begin{equation}
@@ -141,7 +157,8 @@ and  the payoff to TFT is
 There are a number of things to notice. First, as shown in Figure~\ref{tftvsd}, Defectors are not always favored. When the TFT line is above the Defectors line, TFT is favored and eventual come to dominate the population at equilibrium. The point where the lines cross is a threshold point. If the frequency of Defectors is less than this point, TFT will be favored and come to dominate, while if the frequency of Defectors is higher than this point, Defectors are favored. This interaction derives from the fact that while Defectors enjoy a long string of high payoffs against Cooperators, they only enjoy this high payoff once against TFT strategists. Similarly, TFT strategists only suffer the suckers payoff once against a Defector, while a Cooperator endures a potentially long string of suckers payoffs.  Also, we can see that increasing the temptation to cheat (i.e., increasing the ``big payoff''), makes defection more likely, while increasing the benefit to ``mutual coopeartion'' makes TFT more attractive. 
 
 \begin{figure}[ht]
-	\includegraphics[width=0.7\textwidth]{payoffvsmu.png}
+	\centering
+	\includegraphics[width=0.85\textwidth]{files/figures/fdcrit.png}
 	\caption{The affect of increasing expected interaction length in TFT versus D populations.}
 	\label{muintft}
 \end{figure}

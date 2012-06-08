@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.24)  15 MAY 2012 16:15
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.24)  8 JUN 2012 16:42
 entering extended mode
-**C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/gametheoryopens
-cience.tex
+**gametheoryopenscience.tex
 
-(C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/gametheoryopensc
+(C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\gametheoryopensc
 ience.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
@@ -310,30 +309,49 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen111
 \Gin@req@width=\dimen112
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count91
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2008/08/31 v1.0b Adding subcaptions (AR)
+\c@subfigure=\count92
+\c@subtable=\count93
+)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen113
-\lightrulewidth=\dimen114
-\cmidrulewidth=\dimen115
-\belowrulesep=\dimen116
-\belowbottomsep=\dimen117
-\aboverulesep=\dimen118
-\abovetopsep=\dimen119
-\cmidrulesep=\dimen120
-\cmidrulekern=\dimen121
-\defaultaddspace=\dimen122
-\@cmidla=\count91
-\@cmidlb=\count92
-\@aboverulesep=\dimen123
-\@belowrulesep=\dimen124
-\@thisruleclass=\count93
-\@lastruleclass=\count94
-\@thisrulewidth=\dimen125
+\heavyrulewidth=\dimen119
+\lightrulewidth=\dimen120
+\cmidrulewidth=\dimen121
+\belowrulesep=\dimen122
+\belowbottomsep=\dimen123
+\aboverulesep=\dimen124
+\abovetopsep=\dimen125
+\cmidrulesep=\dimen126
+\cmidrulekern=\dimen127
+\defaultaddspace=\dimen128
+\@cmidla=\count94
+\@cmidlb=\count95
+\@aboverulesep=\dimen129
+\@belowrulesep=\dimen130
+\@thisruleclass=\count96
+\@lastruleclass=\count97
+\@thisrulewidth=\dimen131
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen126
-\extrarowheight=\dimen127
+\col@sep=\dimen132
+\extrarowheight=\dimen133
 \NC@list=\toks18
 \extratabsurround=\skip43
 \backup@length=\skip44
@@ -376,9 +394,9 @@ les
 Package: authblk 2009/11/18 1.3 (PWD)
 \affilsep=\skip58
 \@affilsep=\skip59
-\c@Maxaffil=\count95
-\c@authors=\count96
-\c@affil=\count97
+\c@Maxaffil=\count98
+\c@authors=\count99
+\c@affil=\count100
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
@@ -430,32 +448,11 @@ Package tocloft Info: The document has section divisions on input line 43.
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
-Package: caption 2010/01/09 v3.1m Customizing captions (AR)
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
-Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
-\captionmargin=\dimen128
-\captionmargin@=\dimen129
-\captionwidth=\dimen130
-\caption@indent=\dimen131
-\caption@parindent=\dimen132
-\caption@hangindent=\dimen133
-)
-\c@ContinuedFloat=\count98
-)
-\c@KVtest=\count99
+\c@KVtest=\count101
 \sf@farskip=\skip97
 \sf@captopadj=\dimen134
 \sf@capskip=\skip98
 \sf@nearskip=\skip99
-\c@subfigure=\count100
-\c@subfigure@save=\count101
-\c@lofdepth=\count102
-\c@subtable=\count103
-\c@subtable@save=\count104
-\c@lotdepth=\count105
 \sf@top=\skip100
 \sf@bottom=\skip101
 )
@@ -479,13 +476,13 @@ Package: amsbsy 1999/11/29 v1.2d
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count106
+\inf@bad=\count102
 LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count107
-\leftroot@=\count108
+\uproot@=\count103
+\leftroot@=\count104
 LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count109
-\DOTSCASE@=\count110
+\classnum@=\count105
+\DOTSCASE@=\count106
 LaTeX Info: Redefining \ldots on input line 379.
 LaTeX Info: Redefining \dots on input line 382.
 LaTeX Info: Redefining \cdots on input line 467.
@@ -494,15 +491,15 @@ LaTeX Info: Redefining \cdots on input line 467.
 \big@size=\dimen137
 LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count111
-\c@MaxMatrixCols=\count112
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
 \dotsspace@=\muskip10
-\c@parentequation=\count113
-\dspbrk@lvl=\count114
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
 \tag@help=\toks23
-\row@=\count115
-\column@=\count116
-\maxfields@=\count117
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
 \andhelp@=\toks24
 \eqnshift@=\dimen138
 \alignsep@=\dimen139
@@ -519,18 +516,18 @@ LaTeX Info: Redefining \] on input line 2667.
 )
 (C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\gametheoryopensc
 ience.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
-LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -568,56 +565,75 @@ LaTeX Font Info:    ... okay on input line 68.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count118
+\scratchcounter=\count114
 \scratchdimen=\dimen144
 \scratchbox=\box28
-\nofMPsegments=\count119
-\nofMParguments=\count120
+\nofMPsegments=\count115
+\nofMParguments=\count116
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count121
+\MPscratchCnt=\count117
 \MPscratchDim=\dimen145
-\MPnumerator=\count122
+\MPnumerator=\count118
 \everyMPtoPDFconversion=\toks28
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
-LaTeX Info: Redefining \subref on input line 68.
+LaTeX Info: Redefining \subref on input line 70.
 Package caption Info: End \AtBeginDocument code.
- <pdmatrix.png, id=1, 412.4208pt x 416.757pt>
-File: pdmatrix.png Graphic file (type png)
- <use pdmatrix.png>
-Package pdftex.def Info: pdmatrix.png used on input line 81.
+ <files/figures/pdmatrix.png, id=1, 412.4208pt x 416.757pt>
+File: files/figures/pdmatrix.png Graphic file (type png)
+
+<use files/figures/pdmatrix.png>
+Package pdftex.def Info: files/figures/pdmatrix.png used on input line 83.
 (pdftex.def)             Requested size: 209.12683pt x 211.32864pt.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/Users/olendorf/Doc
-uments/Manuscripts/GameTheoryOpenScience/pdmatrix.png>]
-<c_vs_d.png, id=16, 421.575pt x 316.18124pt>
-File: c_vs_d.png Graphic file (type png)
- <use c_vs_d.png>
-Package pdftex.def Info: c_vs_d.png used on input line 100.
-(pdftex.def)             Requested size: 292.77629pt x 219.5837pt.
+uments/Manuscripts/GameTheoryOpenScience/files/figures/pdmatrix.png>] <files/fi
+gures/DvsC.png, id=16, 578.16pt x 433.62pt>
+File: files/figures/DvsC.png Graphic file (type png)
+
+<use files/figures/DvsC.png>
+Package pdftex.def Info: files/figures/DvsC.png used on input line 102.
+(pdftex.def)             Requested size: 292.77629pt x 219.58177pt.
  [3]
-Overfull \hbox (50.46503pt too wide) in paragraph at lines 109--111
+Overfull \hbox (50.46503pt too wide) in paragraph at lines 111--113
 [] 
  []
 
-<tftvsdannotated.png, id=22, 270.7716pt x 246.6816pt>
-File: tftvsdannotated.png Graphic file (type png)
+<files/figures/DvsTFT_mu3.png, id=22, 578.16pt x 433.62pt>
+File: files/figures/DvsTFT_mu3.png Graphic file (type png)
 
-<use tftvsdannotated.png>
-Package pdftex.def Info: tftvsdannotated.png used on input line 125.
-(pdftex.def)             Requested size: 292.77629pt x 266.74715pt.
- [4 <C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/c_vs_d.png>]
- <payoffvsmu.png, id=28, 578.16pt x 433.1382pt>
-File: payoffvsmu.png Graphic file (type png)
+<use files/figures/DvsTFT_mu3.png>
+Package pdftex.def Info: files/figures/DvsTFT_mu3.png used on input line 129.
+(pdftex.def)             Requested size: 230.04079pt x 172.52522pt.
 
-<use payoffvsmu.png>
-Package pdftex.def Info: payoffvsmu.png used on input line 144.
-(pdftex.def)             Requested size: 292.77629pt x 219.3378pt.
- [5 <C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/tftvsdannota
-ted.png>] [6 <C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/pay
-offvsmu.png>] [7] [8] [9]
+<files/figures/DvsTFT_mu15.png, id=23, 578.16pt x 433.62pt>
+File: files/figures/DvsTFT_mu15.png Graphic file (type png)
+
+<use files/figures/DvsTFT_mu15.png>
+Package pdftex.def Info: files/figures/DvsTFT_mu15.png used on input line 134.
+(pdftex.def)             Requested size: 230.04079pt x 172.52522pt.
+
+Overfull \hbox (44.26123pt too wide) in paragraph at lines 127--142
+[][] [] 
+ []
+
+
+LaTeX Warning: Reference `tftvsd' on page 4 undefined on input line 157.
+
+[4 <C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figures
+/DvsC.png (PNG copy)>] <files/figures/fdcrit.png, id=28, 578.16pt x 433.62pt>
+File: files/figures/fdcrit.png Graphic file (type png)
+
+<use files/figures/fdcrit.png>
+Package pdftex.def Info: files/figures/fdcrit.png used on input line 161.
+(pdftex.def)             Requested size: 355.51817pt x 266.63832pt.
+ [5 <C:/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figure
+s/DvsTFT_mu3.png (PNG copy)> <C:/Users/olendorf/Documents/Manuscripts/GameTheor
+yOpenScience/files/figures/DvsTFT_mu15.png (PNG copy)>] [6 <C:/Users/olendorf/D
+ocuments/Manuscripts/GameTheoryOpenScience/files/figures/fdcrit.png (PNG copy)>
+] [7] [8] [9]
 (C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\gametheoryopensc
 ience.bbl
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 50.
@@ -629,27 +645,36 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 )
 [10]
 (C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\gametheoryopensc
-ience.aux) ) 
+ience.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4521 strings out of 494049
- 64733 string characters out of 3146056
- 140596 words of memory out of 3000000
- 7745 multiletter control sequences out of 15000+200000
- 10949 words of font info for 39 fonts, out of 3000000 for 9000
+ 4558 strings out of 494049
+ 65631 string characters out of 3146056
+ 140025 words of memory out of 3000000
+ 7776 multiletter control sequences out of 15000+200000
+ 11556 words of font info for 41 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 44i,11n,43p,2091b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
-:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on gametheoryopenscience.pdf (10 pages, 262940 bytes).
+ 36i,11n,43p,2029b,432s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on gametheoryopenscience.pdf (10 pages, 262562 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
