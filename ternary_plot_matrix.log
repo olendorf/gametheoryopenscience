@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.24)  15 JUN 2012 15:55
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.1.24)  15 JUN 2012 16:18
 entering extended mode
 **ternary_plot_matrix.tex
 
@@ -443,7 +443,8 @@ Package tocloft Info: The document has section divisions on input line 43.
 \cftsubtabindent=\skip98
 \cftsubtabnumwidth=\skip99
 )
-No file ternary_plot_matrix.aux.
+(C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\ternary_plot_mat
+rix.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
@@ -456,6 +457,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
 LaTeX Font Info:    ... okay on input line 63.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -598,8 +600,8 @@ gures/tern_d_15.png (PNG copy)>]
 (C:\Users\olendorf\Documents\Manuscripts\GameTheoryOpenScience\ternary_plot_mat
 rix.aux) ) 
 Here is how much of TeX's memory you used:
- 3743 strings out of 494049
- 56000 string characters out of 3146056
+ 3745 strings out of 494049
+ 56170 string characters out of 3146056
  122485 words of memory out of 3000000
  6999 multiletter control sequences out of 15000+200000
  6379 words of font info for 23 fonts, out of 3000000 for 9000
@@ -609,7 +611,7 @@ Here is how much of TeX's memory you used:
 i10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10
 .pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb>
-Output written on ternary_plot_matrix.pdf (1 page, 196870 bytes).
+Output written on ternary_plot_matrix.pdf (1 page, 196989 bytes).
 PDF statistics:
  27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
