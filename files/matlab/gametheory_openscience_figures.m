@@ -42,10 +42,10 @@ xlabel(['\fontsize{12}Frequency of Defectors'])
 ylabel(['\fontsize{12}Expected Payoff']);
 title(['\fontsize{16}Cooperators vs Defectors']);
 
-print (gcf, '-dpng', 'files/figures/DvsC.png');
+print (gcf, '-dpng', '/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figures/DvsC.png');
 clf;
-%saveas(gcf, 'files/figures/DvsC.png');
-%saveas(gcf, 'files/matlab/DvsC.fig');
+%saveas(gcf, '../figures/DvsC.png');
+%saveas(gcf, 'DvsC.fig');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Fitness of Defect in a population of Defectors and TFT with varying
@@ -107,7 +107,7 @@ set(plot2(3), ...
     'Color',[0.7843137383461 0.5 0]);
 set(plot2(4), ...
     'Color',[0.7843137383461 0.75 0]);
-print (gcf, '-dpng', 'files/figures/DvsTFT_mu3.png');
+print (gcf, '-dpng', '/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figures/DvsTFT_mu3.png');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Subplot
@@ -140,7 +140,7 @@ set(plot3(3), ...
     'Color',[0.7843137383461 0.5 0]);
 set(plot3(4), ...
     'Color',[0.7843137383461 0.75 0]);
-print (gcf, '-dpng', 'files/figures/DvsTFT_mu15.png');
+print (gcf, '-dpng', '/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figures/DvsTFT_mu15.png');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Subplot Mu vs Critical Frequency of D
@@ -158,4 +158,4 @@ set(plot4(2), ...
     'Color',[0.7843137383461 0.5 0]);
 set(plot4(3), ...
     'Color',[0.7843137383461 0.75 .25]);
-print (gcf, '-dpng', 'files/figures/fdcrit.png');
+print (gcf, '-dpng', '/Users/olendorf/Documents/Manuscripts/GameTheoryOpenScience/files/figures/fdcrit.png');

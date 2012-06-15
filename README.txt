@@ -4,3 +4,4 @@ Steve's notebook (shared Google docs collection): https://docs.google.com/open?i
 
 The actual manuscript is written in latex: gametheoryopenscience.tex
 The output is a pdf document: gametheoryopenscience.pdf
+The rest of the stuff is just generated from processing the tex file.
